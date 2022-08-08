@@ -1,5 +1,7 @@
 # Customer Segmentation
-In this project, I performed an unsupervised clustering of data on the customer's records from a supermarket firm's database
+In this project, unsupervised clustering was performed on customer's records from a supermarket firm's database <br>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bhavikfirke/Customer_Segmentation/main?labpath=customer_segmentation.ipynb)
 
 # Dataset
 The [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) consists of 2240 customers along with general information about them such as annual income, their marital status, etc, along with their purchase patterns
