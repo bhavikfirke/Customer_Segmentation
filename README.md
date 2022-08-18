@@ -13,7 +13,7 @@ The [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-a
 - Profiling and EDA on clustered customers
 
 # Outcome
-Customers got divided into 4 segments, each with different demographics and purchasing patterns. The outcome can be used in planning better marketing strategies
+Customers got divided into 4 segments, each with different demographics and purchasing patterns. The outcome can be used in formulating better marketing strategies
 
 ![Customer Profile](https://github.com/bhavikfirke/Customer_Segmentation/blob/main/customer%20insights.jpg?raw=true)
 
